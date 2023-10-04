@@ -1,4 +1,4 @@
-name: MAIO
+name: UTQ
 channels:
   - conda-forge
 dependencies:
