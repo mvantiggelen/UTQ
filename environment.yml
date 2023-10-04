@@ -1,0 +1,6 @@
+name: MAIO
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - matplotlib
